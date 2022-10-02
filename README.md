@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-      <img src="" width=900px>
+      <img src="https://github.com/hioan-dev/Hacktoberfest-2022/blob/main/Assets/HacktoberBanner.png" width=900px>
     </a>
 </p>
 
